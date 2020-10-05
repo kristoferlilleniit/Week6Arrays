@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\bin\Debug\netcoreapp3.1\UserAgainstZombies.exe
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\bin\Debug\netcoreapp3.1\UserAgainstZombies.deps.json
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\bin\Debug\netcoreapp3.1\UserAgainstZombies.runtimeconfig.json
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\bin\Debug\netcoreapp3.1\UserAgainstZombies.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\bin\Debug\netcoreapp3.1\UserAgainstZombies.dll
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\bin\Debug\netcoreapp3.1\UserAgainstZombies.pdb
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.dll
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.pdb
+C:\Users\opilane\source\repos\Week6Arrays\UserAgainstZombies\obj\Debug\netcoreapp3.1\UserAgainstZombies.genruntimeconfig.cache
